@@ -4,8 +4,5 @@
   :ID:       15970FF1-AEA4-48F9-B20A-0BE9D2748B99
   :END:
 
-- ~M-RET~ new entry
--
-- 
-** 
+- ~M-RET~ new entry 
 
